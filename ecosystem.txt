@@ -1,0 +1,10 @@
+# Animals
+Animal: name=Tiger, type=Predator, population=40
+Animal: name=Deer, type=Herbivore, population=15
+
+# Plants
+Plant: name=Grass, height=10, population=100
+Plant: name=Bush, height=30, population=50
+
+# Resources
+Resources: temperature=25, humidity=60, water=100
