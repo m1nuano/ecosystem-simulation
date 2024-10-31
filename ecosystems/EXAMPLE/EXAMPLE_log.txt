@@ -1,0 +1,2189 @@
+[2024-10-31 19:05:18] [INFO]: Log initialized for ecosystem: EXAMPLE
+[2024-10-31 19:05:18] [INFO]: The ecosystem has loaded successfully.
+[2024-10-31 19:05:23] [INFO]: Resources updated: Resources(temperature=20, humidity=100, water=1.0E11, season=Spring)
+[2024-10-31 19:05:23] [INFO]: Initial season and resources loaded: Spring Resources(temperature=20, humidity=100, water=1.0E11, season=Spring)
+[2024-10-31 19:05:23] [INFO]: Weather Event: No significant weather event today.
+[2024-10-31 19:05:23] [INFO]: Daily temperature adjusted to: 20
+[2024-10-31 19:05:23] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:23] [INFO]: Deer consumed 8333 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Deer consumed 0 units of Tree(s).
+[2024-10-31 19:05:23] [INFO]: Deer consumed 0 units of Flower(s).
+[2024-10-31 19:05:23] [INFO]: Rabbit consumed 2500 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 4000 units of Grass(s).
+[2024-10-31 19:05:23] [INFO]: Antelope consumed 18000 units of Grass(s).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Deer. Food needed: 25000.0, current population: 5000
+[2024-10-31 19:05:23] [INFO]: Deer is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Rabbit. Food needed: 7500.0, current population: 15000
+[2024-10-31 19:05:23] [INFO]: Rabbit is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Fox. Food needed: 6000.0, current population: 2000
+[2024-10-31 19:05:23] [INFO]: Fox is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 15000.0, current population: 3000
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 5000.0, current population: 500
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3000.0, current population: 500
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 4000.0, current population: 20000
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 18000.0, current population: 3000
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Fox (Level 2) consumed 66 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Fox (Level 2) consumed 40 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 166 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 40 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 55 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 33 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 5 Mouse(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 33 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 20 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Deer. Food needed: 23400.0, current population: 4680
+[2024-10-31 19:05:23] [INFO]: Deer is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Rabbit. Food needed: 7433.5, current population: 14867
+[2024-10-31 19:05:23] [INFO]: Rabbit is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Fox. Food needed: 6000.0, current population: 2000
+[2024-10-31 19:05:23] [INFO]: Fox is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 15000.0, current population: 3000
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 5000.0, current population: 500
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3000.0, current population: 500
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 3999.0, current population: 19995
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 18000.0, current population: 3000
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Deer reproduced: new population is 4726
+[2024-10-31 19:05:23] [INFO]: Rabbit reproduced: new population is 15015
+[2024-10-31 19:05:23] [INFO]: Fox reproduced: new population is 2020
+[2024-10-31 19:05:23] [INFO]: Panther reproduced: new population is 505
+[2024-10-31 19:05:23] [INFO]: Mouse reproduced: new population is 20194
+[2024-10-31 19:05:23] [INFO]: Antelope reproduced: new population is 3030
+[2024-10-31 19:05:23] [INFO]: Grass grew: new population is 78396
+[2024-10-31 19:05:23] [INFO]: Bush grew: new population is 289474
+[2024-10-31 19:05:23] [INFO]: Tree grew: new population is 100125
+[2024-10-31 19:05:23] [INFO]: Flower grew: new population is 200363
+[2024-10-31 19:05:23] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:23] [INFO]: -----Day 1 completed.-----
+[2024-10-31 19:05:23] [INFO]: Weather Event: Rain occurred, + 387644980 water resources. Humidity increased.
+[2024-10-31 19:05:23] [INFO]: Daily temperature adjusted to: 19
+[2024-10-31 19:05:23] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:23] [INFO]: Deer consumed 7876 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Deer consumed 0 units of Flower(s).
+[2024-10-31 19:05:23] [INFO]: Rabbit consumed 7507 units of Grass(s).
+[2024-10-31 19:05:23] [INFO]: Rabbit consumed 0 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Rabbit consumed 0 units of Flower(s).
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 403 units of Tree(s).
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 1 units of Flower(s).
+[2024-10-31 19:05:23] [INFO]: Antelope consumed 18180 units of Grass(s).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Deer. Food needed: 23630.0, current population: 4726
+[2024-10-31 19:05:23] [INFO]: Deer is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Rabbit. Food needed: 7507.5, current population: 15015
+[2024-10-31 19:05:23] [INFO]: Rabbit is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Fox. Food needed: 6060.0, current population: 2020
+[2024-10-31 19:05:23] [INFO]: Fox is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 15000.0, current population: 3000
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 5000.0, current population: 500
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3030.0, current population: 505
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 4038.8, current population: 20194
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 18180.0, current population: 3030
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Fox (Level 2) consumed 67 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Fox (Level 2) consumed 20 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 166 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 40 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 55 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 33 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 5 Mouse(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 33 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 40 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Deer. Food needed: 22025.0, current population: 4405
+[2024-10-31 19:05:23] [INFO]: Deer is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Rabbit. Food needed: 7441.0, current population: 14882
+[2024-10-31 19:05:23] [INFO]: Rabbit is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Fox. Food needed: 6060.0, current population: 2020
+[2024-10-31 19:05:23] [INFO]: Fox is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 15000.0, current population: 3000
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 5000.0, current population: 500
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3030.0, current population: 505
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 4037.8, current population: 20189
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 18180.0, current population: 3030
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Rabbit reproduced: new population is 15030
+[2024-10-31 19:05:23] [INFO]: Wolf reproduced: new population is 3030
+[2024-10-31 19:05:23] [INFO]: Mouse reproduced: new population is 20390
+[2024-10-31 19:05:23] [INFO]: Grass grew: new population is 52780
+[2024-10-31 19:05:23] [INFO]: Bush grew: new population is 282057
+[2024-10-31 19:05:23] [INFO]: Tree grew: new population is 100040
+[2024-10-31 19:05:23] [INFO]: Flower grew: new population is 201177
+[2024-10-31 19:05:23] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:23] [INFO]: -----Day 2 completed.-----
+[2024-10-31 19:05:23] [INFO]: Weather Event: Rain occurred, + 1153186333 water resources. Humidity increased.
+[2024-10-31 19:05:23] [INFO]: Daily temperature adjusted to: 14
+[2024-10-31 19:05:23] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:23] [INFO]: Deer consumed 22025 units of Grass(s).
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 4078 units of Grass(s).
+[2024-10-31 19:05:23] [INFO]: Antelope consumed 1818 units of Tree(s).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Deer. Food needed: 22025.0, current population: 4405
+[2024-10-31 19:05:23] [INFO]: Deer is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Rabbit. Food needed: 7515.0, current population: 15030
+[2024-10-31 19:05:23] [INFO]: Rabbit is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Fox. Food needed: 6060.0, current population: 2020
+[2024-10-31 19:05:23] [INFO]: Fox is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 15150.0, current population: 3030
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 5000.0, current population: 500
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3030.0, current population: 505
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 4078.0, current population: 20390
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 18180.0, current population: 3030
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Fox (Level 2) consumed 67 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Fox (Level 2) consumed 20 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 168 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 20 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 55 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 33 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 5 Mouse(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 33 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 40 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Deer. Food needed: 20410.0, current population: 4082
+[2024-10-31 19:05:23] [INFO]: Deer is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Rabbit. Food needed: 7458.5, current population: 14917
+[2024-10-31 19:05:23] [INFO]: Rabbit is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Fox. Food needed: 6060.0, current population: 2020
+[2024-10-31 19:05:23] [INFO]: Fox is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 15150.0, current population: 3030
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 5000.0, current population: 500
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3030.0, current population: 505
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 4077.0, current population: 20385
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 18180.0, current population: 3030
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Rabbit reproduced: new population is 15066
+[2024-10-31 19:05:23] [INFO]: Mouse reproduced: new population is 20588
+[2024-10-31 19:05:23] [INFO]: Antelope reproduced: new population is 3060
+[2024-10-31 19:05:23] [INFO]: Grass grew: new population is 26810
+[2024-10-31 19:05:23] [INFO]: Bush grew: new population is 283331
+[2024-10-31 19:05:23] [INFO]: Tree grew: new population is 98718
+[2024-10-31 19:05:23] [INFO]: Flower grew: new population is 201930
+[2024-10-31 19:05:23] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:23] [INFO]: -----Day 3 completed.-----
+[2024-10-31 19:05:23] [INFO]: Weather Event: Rain occurred, + 1559565174 water resources. Humidity increased.
+[2024-10-31 19:05:23] [INFO]: Daily temperature adjusted to: 12
+[2024-10-31 19:05:23] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:23] [INFO]: Deer consumed 6803 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Rabbit consumed 2511 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 4117 units of Grass(s).
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 0 units of Tree(s).
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 0 units of Flower(s).
+[2024-10-31 19:05:23] [INFO]: Antelope consumed 1836 units of Tree(s).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Deer. Food needed: 20410.0, current population: 4082
+[2024-10-31 19:05:23] [INFO]: Deer is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Rabbit. Food needed: 7533.0, current population: 15066
+[2024-10-31 19:05:23] [INFO]: Rabbit is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Fox. Food needed: 6060.0, current population: 2020
+[2024-10-31 19:05:23] [INFO]: Fox is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 15150.0, current population: 3030
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 5000.0, current population: 500
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3030.0, current population: 505
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 4117.6, current population: 20588
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 18360.0, current population: 3060
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Fox (Level 2) consumed 67 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Fox (Level 2) consumed 20 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 168 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 20 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 55 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 33 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 5 Mouse(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 33 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 40 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Deer. Food needed: 18795.0, current population: 3759
+[2024-10-31 19:05:23] [INFO]: Deer is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Rabbit. Food needed: 7476.5, current population: 14953
+[2024-10-31 19:05:23] [INFO]: Rabbit is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Fox. Food needed: 6060.0, current population: 2020
+[2024-10-31 19:05:23] [INFO]: Fox is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 15150.0, current population: 3030
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 5000.0, current population: 500
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3030.0, current population: 505
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 4116.6, current population: 20583
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 18360.0, current population: 3060
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Rabbit reproduced: new population is 15102
+[2024-10-31 19:05:23] [INFO]: Wolf reproduced: new population is 3060
+[2024-10-31 19:05:23] [INFO]: Tiger reproduced: new population is 505
+[2024-10-31 19:05:23] [INFO]: Panther reproduced: new population is 510
+[2024-10-31 19:05:23] [INFO]: Mouse reproduced: new population is 20788
+[2024-10-31 19:05:23] [INFO]: Antelope reproduced: new population is 3090
+[2024-10-31 19:05:23] [INFO]: Grass grew: new population is 22745
+[2024-10-31 19:05:23] [INFO]: Bush grew: new population is 275250
+[2024-10-31 19:05:23] [INFO]: Tree grew: new population is 96906
+[2024-10-31 19:05:23] [INFO]: Flower grew: new population is 202107
+[2024-10-31 19:05:23] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:23] [INFO]: -----Day 4 completed.-----
+[2024-10-31 19:05:23] [INFO]: Weather Event: Rain occurred, + 731725858 water resources. Humidity increased.
+[2024-10-31 19:05:23] [INFO]: Daily temperature adjusted to: 10
+[2024-10-31 19:05:23] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:23] [INFO]: Deer consumed 18795 units of Grass(s).
+[2024-10-31 19:05:23] [INFO]: Rabbit consumed 2517 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 3950 units of Grass(s).
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 69 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Antelope consumed 6180 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Deer. Food needed: 18795.0, current population: 3759
+[2024-10-31 19:05:23] [INFO]: Deer is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Rabbit. Food needed: 7551.0, current population: 15102
+[2024-10-31 19:05:23] [INFO]: Rabbit is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Fox. Food needed: 6060.0, current population: 2020
+[2024-10-31 19:05:23] [INFO]: Fox is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 15300.0, current population: 3060
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 5050.0, current population: 505
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3060.0, current population: 510
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 4157.6, current population: 20788
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 18540.0, current population: 3090
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Fox (Level 2) consumed 4040 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 170 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 56 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 6 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 10 Mouse(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 34 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Deer. Food needed: 17495.0, current population: 3499
+[2024-10-31 19:05:23] [INFO]: Deer is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Rabbit. Food needed: 5528.0, current population: 11056
+[2024-10-31 19:05:23] [INFO]: Rabbit is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Fox. Food needed: 6060.0, current population: 2020
+[2024-10-31 19:05:23] [INFO]: Fox is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 15300.0, current population: 3060
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 5050.0, current population: 505
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3060.0, current population: 510
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 4155.6, current population: 20778
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 18540.0, current population: 3090
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Deer reproduced: new population is 3533
+[2024-10-31 19:05:23] [INFO]: Rabbit reproduced: new population is 11166
+[2024-10-31 19:05:23] [INFO]: Panther reproduced: new population is 515
+[2024-10-31 19:05:23] [INFO]: Antelope reproduced: new population is 3120
+[2024-10-31 19:05:23] [INFO]: Bush grew: new population is 267056
+[2024-10-31 19:05:23] [INFO]: Tree grew: new population is 97254
+[2024-10-31 19:05:23] [INFO]: Flower grew: new population is 202820
+[2024-10-31 19:05:23] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:23] [INFO]: -----Day 5 completed.-----
+[2024-10-31 19:05:23] [INFO]: Weather Event: Drought occurred, - 1477068983 water resources. Humidity decreased.
+[2024-10-31 19:05:23] [INFO]: Daily temperature adjusted to: 6
+[2024-10-31 19:05:23] [INFO]: Humidity level is: 98
+[2024-10-31 19:05:23] [INFO]: Deer consumed 5888 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Deer consumed 0 units of Flower(s).
+[2024-10-31 19:05:23] [INFO]: Rabbit consumed 1861 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 1385 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 0 units of Tree(s).
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 0 units of Flower(s).
+[2024-10-31 19:05:23] [INFO]: Antelope consumed 1872 units of Tree(s).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Deer. Food needed: 17665.0, current population: 3533
+[2024-10-31 19:05:23] [INFO]: Deer is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Rabbit. Food needed: 5583.0, current population: 11166
+[2024-10-31 19:05:23] [INFO]: Rabbit is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Fox. Food needed: 6060.0, current population: 2020
+[2024-10-31 19:05:23] [INFO]: Fox is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 15300.0, current population: 3060
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 5050.0, current population: 505
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3090.0, current population: 515
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 4155.6, current population: 20778
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 18720.0, current population: 3120
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Fox (Level 2) consumed 67 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Fox (Level 2) consumed 20 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 170 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 56 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 6 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 10 Mouse(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 34 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 20 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Deer. Food needed: 16030.0, current population: 3206
+[2024-10-31 19:05:23] [INFO]: Deer is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Rabbit. Food needed: 5560.0, current population: 11120
+[2024-10-31 19:05:23] [INFO]: Rabbit is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Fox. Food needed: 6060.0, current population: 2020
+[2024-10-31 19:05:23] [INFO]: Fox is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 15300.0, current population: 3060
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 5050.0, current population: 505
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3090.0, current population: 515
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 4153.6, current population: 20768
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 18720.0, current population: 3120
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Rabbit reproduced: new population is 11231
+[2024-10-31 19:05:23] [INFO]: Tiger reproduced: new population is 510
+[2024-10-31 19:05:23] [INFO]: Mouse reproduced: new population is 20975
+[2024-10-31 19:05:23] [INFO]: Antelope reproduced: new population is 3151
+[2024-10-31 19:05:23] [INFO]: Bush grew: new population is 258442
+[2024-10-31 19:05:23] [INFO]: Tree grew: new population is 95733
+[2024-10-31 19:05:23] [INFO]: Flower grew: new population is 203668
+[2024-10-31 19:05:23] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:23] [INFO]: -----Day 6 completed.-----
+[2024-10-31 19:05:23] [INFO]: Weather Event: Rain occurred, + 1513005090 water resources. Humidity increased.
+[2024-10-31 19:05:23] [INFO]: Daily temperature adjusted to: 4
+[2024-10-31 19:05:23] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:23] [INFO]: Deer consumed 1603 units of Tree(s).
+[2024-10-31 19:05:23] [INFO]: Rabbit consumed 1871 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Rabbit consumed 0 units of Flower(s).
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 419 units of Tree(s).
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 1 units of Flower(s).
+[2024-10-31 19:05:23] [INFO]: Antelope consumed 6302 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Deer. Food needed: 16030.0, current population: 3206
+[2024-10-31 19:05:23] [INFO]: Deer is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Rabbit. Food needed: 5615.5, current population: 11231
+[2024-10-31 19:05:23] [INFO]: Rabbit is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Fox. Food needed: 6060.0, current population: 2020
+[2024-10-31 19:05:23] [INFO]: Fox is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 15300.0, current population: 3060
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 5100.0, current population: 510
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3090.0, current population: 515
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 4195.0, current population: 20975
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 18906.0, current population: 3151
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Fox (Level 2) consumed 67 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Fox (Level 2) consumed 20 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 170 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 56 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 40 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 34 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 20 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Deer. Food needed: 14395.0, current population: 2879
+[2024-10-31 19:05:23] [INFO]: Deer is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Rabbit. Food needed: 5575.5, current population: 11151
+[2024-10-31 19:05:23] [INFO]: Rabbit is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Fox. Food needed: 6060.0, current population: 2020
+[2024-10-31 19:05:23] [INFO]: Fox is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 15300.0, current population: 3060
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 5100.0, current population: 510
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3090.0, current population: 515
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 4195.0, current population: 20975
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 18906.0, current population: 3151
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Deer reproduced: new population is 2907
+[2024-10-31 19:05:23] [INFO]: Fox reproduced: new population is 2040
+[2024-10-31 19:05:23] [INFO]: Wolf reproduced: new population is 3090
+[2024-10-31 19:05:23] [INFO]: Bush grew: new population is 251268
+[2024-10-31 19:05:23] [INFO]: Tree grew: new population is 93893
+[2024-10-31 19:05:23] [INFO]: Flower grew: new population is 204526
+[2024-10-31 19:05:23] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:23] [INFO]: -----Day 7 completed.-----
+[2024-10-31 19:05:23] [INFO]: Weather Event: Rain occurred, + 1011159544 water resources. Humidity increased.
+[2024-10-31 19:05:23] [INFO]: Daily temperature adjusted to: 6
+[2024-10-31 19:05:23] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:23] [INFO]: Deer consumed 4845 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Rabbit consumed 1858 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Rabbit consumed 0 units of Tree(s).
+[2024-10-31 19:05:23] [INFO]: Rabbit consumed 0 units of Flower(s).
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 419 units of Tree(s).
+[2024-10-31 19:05:23] [INFO]: Antelope consumed 6302 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Deer. Food needed: 14535.0, current population: 2907
+[2024-10-31 19:05:23] [INFO]: Deer is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Rabbit. Food needed: 5575.5, current population: 11151
+[2024-10-31 19:05:23] [INFO]: Rabbit is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Fox. Food needed: 6120.0, current population: 2040
+[2024-10-31 19:05:23] [INFO]: Fox is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 15450.0, current population: 3090
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 5100.0, current population: 510
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3090.0, current population: 515
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 4195.0, current population: 20975
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 18906.0, current population: 3151
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Fox (Level 2) consumed 68 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 171 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 40 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 56 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 40 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 34 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 20 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Deer. Food needed: 12890.0, current population: 2578
+[2024-10-31 19:05:23] [INFO]: Deer is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Rabbit. Food needed: 5525.5, current population: 11051
+[2024-10-31 19:05:23] [INFO]: Rabbit is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Fox. Food needed: 6120.0, current population: 2040
+[2024-10-31 19:05:23] [INFO]: Fox is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 15450.0, current population: 3090
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 5100.0, current population: 510
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3090.0, current population: 515
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 4195.0, current population: 20975
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 18906.0, current population: 3151
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Rabbit reproduced: new population is 11161
+[2024-10-31 19:05:23] [INFO]: Mouse reproduced: new population is 21184
+[2024-10-31 19:05:23] [INFO]: Antelope reproduced: new population is 3182
+[2024-10-31 19:05:23] [INFO]: Bush grew: new population is 238556
+[2024-10-31 19:05:23] [INFO]: Tree grew: new population is 93893
+[2024-10-31 19:05:23] [INFO]: Flower grew: new population is 204647
+[2024-10-31 19:05:23] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:23] [INFO]: -----Day 8 completed.-----
+[2024-10-31 19:05:23] [INFO]: Weather Event: Rain occurred, + 2095279886 water resources. Humidity increased.
+[2024-10-31 19:05:23] [INFO]: Daily temperature adjusted to: 4
+[2024-10-31 19:05:23] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:23] [INFO]: Deer consumed 2578 units of Flower(s).
+[2024-10-31 19:05:23] [INFO]: Rabbit consumed 1860 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Rabbit consumed 0 units of Tree(s).
+[2024-10-31 19:05:23] [INFO]: Rabbit consumed 0 units of Flower(s).
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 423 units of Tree(s).
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 1 units of Flower(s).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Deer. Food needed: 12890.0, current population: 2578
+[2024-10-31 19:05:23] [INFO]: Deer is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Rabbit. Food needed: 5580.5, current population: 11161
+[2024-10-31 19:05:23] [INFO]: Rabbit is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Fox. Food needed: 6120.0, current population: 2040
+[2024-10-31 19:05:23] [INFO]: Fox is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 15450.0, current population: 3090
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 5100.0, current population: 510
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3090.0, current population: 515
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 4236.8, current population: 21184
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 19092.0, current population: 3182
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Fox (Level 2) consumed 4080 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 171 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 40 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 56 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 40 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 34 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 20 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Deer. Food needed: 11585.0, current population: 2317
+[2024-10-31 19:05:23] [INFO]: Deer is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Rabbit. Food needed: 3490.5, current population: 6981
+[2024-10-31 19:05:23] [INFO]: Rabbit is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Fox. Food needed: 6120.0, current population: 2040
+[2024-10-31 19:05:23] [INFO]: Fox is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 15450.0, current population: 3090
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 5100.0, current population: 510
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3090.0, current population: 515
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 4236.8, current population: 21184
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 19092.0, current population: 3182
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Deer reproduced: new population is 2340
+[2024-10-31 19:05:23] [INFO]: Rabbit reproduced: new population is 7050
+[2024-10-31 19:05:23] [INFO]: Tiger reproduced: new population is 515
+[2024-10-31 19:05:23] [INFO]: Mouse reproduced: new population is 21395
+[2024-10-31 19:05:23] [INFO]: Antelope reproduced: new population is 3213
+[2024-10-31 19:05:23] [INFO]: Bush grew: new population is 236887
+[2024-10-31 19:05:23] [INFO]: Tree grew: new population is 93850
+[2024-10-31 19:05:23] [INFO]: Flower grew: new population is 202947
+[2024-10-31 19:05:23] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:23] [INFO]: -----Day 9 completed.-----
+[2024-10-31 19:05:23] [INFO]: Weather Event: Rain occurred, + 1319199434 water resources. Humidity increased.
+[2024-10-31 19:05:23] [INFO]: Daily temperature adjusted to: 5
+[2024-10-31 19:05:23] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:23] [INFO]: Deer consumed 3900 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Rabbit consumed 1175 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 1426 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 0 units of Flower(s).
+[2024-10-31 19:05:23] [INFO]: Antelope consumed 1927 units of Tree(s).
+[2024-10-31 19:05:23] [INFO]: Antelope consumed 1 units of Flower(s).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Deer. Food needed: 11700.0, current population: 2340
+[2024-10-31 19:05:23] [INFO]: Deer is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Rabbit. Food needed: 3525.0, current population: 7050
+[2024-10-31 19:05:23] [INFO]: Rabbit is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Fox. Food needed: 6120.0, current population: 2040
+[2024-10-31 19:05:23] [INFO]: Fox is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 15450.0, current population: 3090
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 5150.0, current population: 515
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3090.0, current population: 515
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 4279.0, current population: 21395
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 19278.0, current population: 3213
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Fox (Level 2) consumed 68 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 171 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 40 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 57 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 13 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 5 Mouse(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 34 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 20 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Deer. Food needed: 10050.0, current population: 2010
+[2024-10-31 19:05:23] [INFO]: Deer is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Rabbit. Food needed: 3488.5, current population: 6977
+[2024-10-31 19:05:23] [INFO]: Rabbit is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Fox. Food needed: 6120.0, current population: 2040
+[2024-10-31 19:05:23] [INFO]: Fox is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 15450.0, current population: 3090
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 5150.0, current population: 515
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3090.0, current population: 515
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 4278.0, current population: 21390
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 19278.0, current population: 3213
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Rabbit reproduced: new population is 7046
+[2024-10-31 19:05:23] [INFO]: Fox reproduced: new population is 2060
+[2024-10-31 19:05:23] [INFO]: Mouse reproduced: new population is 21603
+[2024-10-31 19:05:23] [INFO]: Antelope reproduced: new population is 3245
+[2024-10-31 19:05:23] [INFO]: Bush grew: new population is 230482
+[2024-10-31 19:05:23] [INFO]: Tree grew: new population is 92099
+[2024-10-31 19:05:23] [INFO]: Flower grew: new population is 203702
+[2024-10-31 19:05:23] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:23] [INFO]: -----Day 10 completed.-----
+[2024-10-31 19:05:23] [INFO]: Weather Event: Rain occurred, + 1825730610 water resources. Humidity increased.
+[2024-10-31 19:05:23] [INFO]: Daily temperature adjusted to: 4
+[2024-10-31 19:05:23] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:23] [INFO]: Deer consumed 1005 units of Tree(s).
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 1440 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 0 units of Flower(s).
+[2024-10-31 19:05:23] [INFO]: Antelope consumed 6490 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Deer. Food needed: 10050.0, current population: 2010
+[2024-10-31 19:05:23] [INFO]: Deer is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Rabbit. Food needed: 3523.0, current population: 7046
+[2024-10-31 19:05:23] [INFO]: Rabbit is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Fox. Food needed: 6180.0, current population: 2060
+[2024-10-31 19:05:23] [INFO]: Fox is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 15450.0, current population: 3090
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 5150.0, current population: 515
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3090.0, current population: 515
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 4320.6, current population: 21603
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 19470.0, current population: 3245
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Fox (Level 2) consumed 68 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Fox (Level 2) consumed 40 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 171 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 40 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 57 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 13 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 5 Mouse(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 34 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 20 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Deer. Food needed: 8400.0, current population: 1680
+[2024-10-31 19:05:23] [INFO]: Deer is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Rabbit. Food needed: 3466.5, current population: 6933
+[2024-10-31 19:05:23] [INFO]: Rabbit is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Fox. Food needed: 6180.0, current population: 2060
+[2024-10-31 19:05:23] [INFO]: Fox is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 15450.0, current population: 3090
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 5150.0, current population: 515
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3090.0, current population: 515
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 4319.6, current population: 21598
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 19470.0, current population: 3245
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Deer reproduced: new population is 1696
+[2024-10-31 19:05:23] [INFO]: Antelope reproduced: new population is 3277
+[2024-10-31 19:05:23] [INFO]: Bush grew: new population is 222918
+[2024-10-31 19:05:23] [INFO]: Tree grew: new population is 91228
+[2024-10-31 19:05:23] [INFO]: Flower grew: new population is 204235
+[2024-10-31 19:05:23] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:23] [INFO]: -----Day 11 completed.-----
+[2024-10-31 19:05:23] [INFO]: Weather Event: Rain occurred, + 1295870367 water resources. Humidity increased.
+[2024-10-31 19:05:23] [INFO]: Daily temperature adjusted to: 4
+[2024-10-31 19:05:23] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:23] [INFO]: Deer consumed 2826 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Deer consumed 0 units of Flower(s).
+[2024-10-31 19:05:23] [INFO]: Rabbit consumed 346 units of Tree(s).
+[2024-10-31 19:05:23] [INFO]: Rabbit consumed 1 units of Flower(s).
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 431 units of Tree(s).
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 1 units of Flower(s).
+[2024-10-31 19:05:23] [INFO]: Antelope consumed 1966 units of Tree(s).
+[2024-10-31 19:05:23] [INFO]: Antelope consumed 0 units of Flower(s).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Deer. Food needed: 8480.0, current population: 1696
+[2024-10-31 19:05:23] [INFO]: Deer is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Rabbit. Food needed: 3466.5, current population: 6933
+[2024-10-31 19:05:23] [INFO]: Rabbit is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Fox. Food needed: 6180.0, current population: 2060
+[2024-10-31 19:05:23] [INFO]: Fox is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 15450.0, current population: 3090
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 5150.0, current population: 515
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3090.0, current population: 515
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 4319.6, current population: 21598
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 19662.0, current population: 3277
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Fox (Level 2) consumed 68 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Fox (Level 2) consumed 40 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 171 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 40 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 57 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 13 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 5 Mouse(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 34 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 20 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Deer. Food needed: 6830.0, current population: 1366
+[2024-10-31 19:05:23] [INFO]: Deer is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Rabbit. Food needed: 3410.0, current population: 6820
+[2024-10-31 19:05:23] [INFO]: Rabbit is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Fox. Food needed: 6180.0, current population: 2060
+[2024-10-31 19:05:23] [INFO]: Fox is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 15450.0, current population: 3090
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 5150.0, current population: 515
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3090.0, current population: 515
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 4318.6, current population: 21593
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 19662.0, current population: 3277
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Deer reproduced: new population is 1379
+[2024-10-31 19:05:23] [INFO]: Rabbit reproduced: new population is 6888
+[2024-10-31 19:05:23] [INFO]: Fox reproduced: new population is 2080
+[2024-10-31 19:05:23] [INFO]: Wolf reproduced: new population is 3120
+[2024-10-31 19:05:23] [INFO]: Mouse reproduced: new population is 21808
+[2024-10-31 19:05:23] [INFO]: Antelope reproduced: new population is 3309
+[2024-10-31 19:05:23] [INFO]: Bush grew: new population is 220622
+[2024-10-31 19:05:23] [INFO]: Tree grew: new population is 88880
+[2024-10-31 19:05:23] [INFO]: Flower grew: new population is 204894
+[2024-10-31 19:05:23] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:23] [INFO]: -----Day 12 completed.-----
+[2024-10-31 19:05:23] [INFO]: Weather Event: Drought occurred, - 1201029977 water resources. Humidity decreased.
+[2024-10-31 19:05:23] [INFO]: Daily temperature adjusted to: 7
+[2024-10-31 19:05:23] [INFO]: Humidity level is: 96
+[2024-10-31 19:05:23] [INFO]: Deer consumed 2298 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Deer consumed 0 units of Tree(s).
+[2024-10-31 19:05:23] [INFO]: Deer consumed 0 units of Flower(s).
+[2024-10-31 19:05:23] [INFO]: Rabbit consumed 344 units of Tree(s).
+[2024-10-31 19:05:23] [INFO]: Rabbit consumed 0 units of Flower(s).
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 436 units of Tree(s).
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 0 units of Flower(s).
+[2024-10-31 19:05:23] [INFO]: Antelope consumed 6618 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Deer. Food needed: 6895.0, current population: 1379
+[2024-10-31 19:05:23] [INFO]: Deer is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Rabbit. Food needed: 3444.0, current population: 6888
+[2024-10-31 19:05:23] [INFO]: Rabbit is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Fox. Food needed: 6240.0, current population: 2080
+[2024-10-31 19:05:23] [INFO]: Fox is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 15600.0, current population: 3120
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 5150.0, current population: 515
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3090.0, current population: 515
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 4361.6, current population: 21808
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 19854.0, current population: 3309
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Fox (Level 2) consumed 4160 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 173 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 20 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 57 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 13 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 5 Mouse(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 34 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 20 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Deer. Food needed: 5575.0, current population: 1115
+[2024-10-31 19:05:23] [INFO]: Deer is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Rabbit. Food needed: 1337.5, current population: 2675
+[2024-10-31 19:05:23] [INFO]: Rabbit is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Fox. Food needed: 6240.0, current population: 2080
+[2024-10-31 19:05:23] [INFO]: Fox is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 15600.0, current population: 3120
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 5150.0, current population: 515
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3090.0, current population: 515
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 4360.6, current population: 21803
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 19854.0, current population: 3309
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Deer reproduced: new population is 1126
+[2024-10-31 19:05:23] [INFO]: Rabbit reproduced: new population is 2701
+[2024-10-31 19:05:23] [INFO]: Wolf reproduced: new population is 3151
+[2024-10-31 19:05:23] [INFO]: Panther reproduced: new population is 520
+[2024-10-31 19:05:23] [INFO]: Mouse reproduced: new population is 22021
+[2024-10-31 19:05:23] [INFO]: Antelope reproduced: new population is 3342
+[2024-10-31 19:05:23] [INFO]: Bush grew: new population is 212107
+[2024-10-31 19:05:23] [INFO]: Tree grew: new population is 88495
+[2024-10-31 19:05:23] [INFO]: Flower grew: new population is 205689
+[2024-10-31 19:05:23] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:23] [INFO]: -----Day 13 completed.-----
+[2024-10-31 19:05:23] [INFO]: Weather Event: Rain occurred, + 1957558812 water resources. Humidity increased.
+[2024-10-31 19:05:23] [INFO]: Daily temperature adjusted to: 5
+[2024-10-31 19:05:23] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:23] [INFO]: Deer consumed 1876 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Deer consumed 0 units of Tree(s).
+[2024-10-31 19:05:23] [INFO]: Deer consumed 0 units of Flower(s).
+[2024-10-31 19:05:23] [INFO]: Rabbit consumed 450 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Rabbit consumed 0 units of Tree(s).
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 1468 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 0 units of Tree(s).
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 0 units of Flower(s).
+[2024-10-31 19:05:23] [INFO]: Antelope consumed 6684 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Deer. Food needed: 5630.0, current population: 1126
+[2024-10-31 19:05:23] [INFO]: Deer is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Rabbit. Food needed: 1350.5, current population: 2701
+[2024-10-31 19:05:23] [INFO]: Rabbit is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Fox. Food needed: 6240.0, current population: 2080
+[2024-10-31 19:05:23] [INFO]: Fox is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 15755.0, current population: 3151
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 5150.0, current population: 515
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3120.0, current population: 520
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 4404.2, current population: 22021
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 20052.0, current population: 3342
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Fox (Level 2) consumed 69 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Fox (Level 2) consumed 20 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 175 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 3 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 5 Mouse(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 57 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 13 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 5 Mouse(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 34 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 40 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Deer. Food needed: 3955.0, current population: 791
+[2024-10-31 19:05:23] [INFO]: Deer is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Rabbit. Food needed: 1312.5, current population: 2625
+[2024-10-31 19:05:23] [INFO]: Rabbit is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Fox. Food needed: 6240.0, current population: 2080
+[2024-10-31 19:05:23] [INFO]: Fox is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 15755.0, current population: 3151
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 5150.0, current population: 515
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3120.0, current population: 520
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 4402.2, current population: 22011
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 20052.0, current population: 3342
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Deer reproduced: new population is 798
+[2024-10-31 19:05:23] [INFO]: Rabbit reproduced: new population is 2651
+[2024-10-31 19:05:23] [INFO]: Mouse reproduced: new population is 22231
+[2024-10-31 19:05:23] [INFO]: Antelope reproduced: new population is 3375
+[2024-10-31 19:05:23] [INFO]: Bush grew: new population is 202107
+[2024-10-31 19:05:23] [INFO]: Tree grew: new population is 88776
+[2024-10-31 19:05:23] [INFO]: Flower grew: new population is 205997
+[2024-10-31 19:05:23] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:23] [INFO]: -----Day 14 completed.-----
+[2024-10-31 19:05:23] [INFO]: Weather Event: Rain occurred, + 1786570799 water resources. Humidity increased.
+[2024-10-31 19:05:23] [INFO]: Daily temperature adjusted to: 8
+[2024-10-31 19:05:23] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:23] [INFO]: Deer consumed 798 units of Flower(s).
+[2024-10-31 19:05:23] [INFO]: Rabbit consumed 441 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Rabbit consumed 0 units of Tree(s).
+[2024-10-31 19:05:23] [INFO]: Rabbit consumed 0 units of Flower(s).
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 444 units of Tree(s).
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 1 units of Flower(s).
+[2024-10-31 19:05:23] [INFO]: Antelope consumed 6750 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Deer. Food needed: 3990.0, current population: 798
+[2024-10-31 19:05:23] [INFO]: Deer is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Rabbit. Food needed: 1325.5, current population: 2651
+[2024-10-31 19:05:23] [INFO]: Rabbit is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Fox. Food needed: 6240.0, current population: 2080
+[2024-10-31 19:05:23] [INFO]: Fox is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 15755.0, current population: 3151
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 5150.0, current population: 515
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3120.0, current population: 520
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 4446.2, current population: 22231
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 20250.0, current population: 3375
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Fox (Level 2) consumed 69 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Fox (Level 2) consumed 20 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 175 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 3 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 5 Mouse(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 57 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 13 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 5 Mouse(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 34 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 40 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Deer. Food needed: 2315.0, current population: 463
+[2024-10-31 19:05:23] [INFO]: Deer is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Rabbit. Food needed: 1287.5, current population: 2575
+[2024-10-31 19:05:23] [INFO]: Rabbit is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Fox. Food needed: 6240.0, current population: 2080
+[2024-10-31 19:05:23] [INFO]: Fox is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 15755.0, current population: 3151
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 5150.0, current population: 515
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3120.0, current population: 520
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 4444.2, current population: 22221
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 20250.0, current population: 3375
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Tiger reproduced: new population is 520
+[2024-10-31 19:05:23] [INFO]: Mouse reproduced: new population is 22443
+[2024-10-31 19:05:23] [INFO]: Bush grew: new population is 195228
+[2024-10-31 19:05:23] [INFO]: Tree grew: new population is 88620
+[2024-10-31 19:05:23] [INFO]: Flower grew: new population is 206022
+[2024-10-31 19:05:23] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:23] [INFO]: -----Day 15 completed.-----
+[2024-10-31 19:05:23] [INFO]: Weather Event: Rain occurred, + 21710904 water resources. Humidity increased.
+[2024-10-31 19:05:23] [INFO]: Daily temperature adjusted to: 8
+[2024-10-31 19:05:23] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:23] [INFO]: Deer consumed 231 units of Tree(s).
+[2024-10-31 19:05:23] [INFO]: Deer consumed 1 units of Flower(s).
+[2024-10-31 19:05:23] [INFO]: Rabbit consumed 429 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 448 units of Tree(s).
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 1 units of Flower(s).
+[2024-10-31 19:05:23] [INFO]: Antelope consumed 6750 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Deer. Food needed: 2315.0, current population: 463
+[2024-10-31 19:05:23] [INFO]: Deer is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Rabbit. Food needed: 1287.5, current population: 2575
+[2024-10-31 19:05:23] [INFO]: Rabbit is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Fox. Food needed: 6240.0, current population: 2080
+[2024-10-31 19:05:23] [INFO]: Fox is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 15755.0, current population: 3151
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 5200.0, current population: 520
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3120.0, current population: 520
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 4488.6, current population: 22443
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 20250.0, current population: 3375
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Fox (Level 2) consumed 69 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Fox (Level 2) consumed 20 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 175 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 3 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 5 Mouse(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 57 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 46 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 10 Mouse(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 34 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 40 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Deer. Food needed: 640.0, current population: 128
+[2024-10-31 19:05:23] [INFO]: Deer is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Rabbit. Food needed: 1233.0, current population: 2466
+[2024-10-31 19:05:23] [INFO]: Rabbit is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Fox. Food needed: 6240.0, current population: 2080
+[2024-10-31 19:05:23] [INFO]: Fox is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 15755.0, current population: 3151
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 5200.0, current population: 520
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3120.0, current population: 520
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 4485.6, current population: 22428
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 20250.0, current population: 3375
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Rabbit reproduced: new population is 2490
+[2024-10-31 19:05:23] [INFO]: Tiger reproduced: new population is 525
+[2024-10-31 19:05:23] [INFO]: Antelope reproduced: new population is 3408
+[2024-10-31 19:05:23] [INFO]: Bush grew: new population is 188207
+[2024-10-31 19:05:23] [INFO]: Tree grew: new population is 88159
+[2024-10-31 19:05:23] [INFO]: Flower grew: new population is 206256
+[2024-10-31 19:05:23] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:23] [INFO]: -----Day 16 completed.-----
+[2024-10-31 19:05:23] [INFO]: Weather Event: Rain occurred, + 67697485 water resources. Humidity increased.
+[2024-10-31 19:05:23] [INFO]: Daily temperature adjusted to: 8
+[2024-10-31 19:05:23] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:23] [INFO]: Deer consumed 213 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Deer consumed 0 units of Tree(s).
+[2024-10-31 19:05:23] [INFO]: Rabbit consumed 415 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 897 units of Flower(s).
+[2024-10-31 19:05:23] [INFO]: Antelope consumed 4089 units of Flower(s).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Deer. Food needed: 640.0, current population: 128
+[2024-10-31 19:05:23] [INFO]: Deer is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Rabbit. Food needed: 1245.0, current population: 2490
+[2024-10-31 19:05:23] [INFO]: Rabbit is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Fox. Food needed: 6240.0, current population: 2080
+[2024-10-31 19:05:23] [INFO]: Fox is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 15755.0, current population: 3151
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 5250.0, current population: 525
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3120.0, current population: 520
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 4485.6, current population: 22428
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 20448.0, current population: 3408
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Fox (Level 2) consumed 2490 Rabbit(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Fox (Level 2) consumed 62 Wolf(s) (Level 4).
+[2024-10-31 19:05:23] [INFO]: Fox (Level 2) consumed 250 Mouse(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 128 Deer(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 392 Fox(s) (Level 2).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 50 Mouse(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 525 Fox(s) (Level 2).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 312 Fox(s) (Level 2).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Fox. Food needed: 2553.0, current population: 851
+[2024-10-31 19:05:23] [INFO]: Fox is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 15445.0, current population: 3089
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 5250.0, current population: 525
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3120.0, current population: 520
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 4425.6, current population: 22128
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 20448.0, current population: 3408
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Tiger reproduced: new population is 530
+[2024-10-31 19:05:23] [INFO]: Panther reproduced: new population is 525
+[2024-10-31 19:05:23] [INFO]: Mouse reproduced: new population is 22349
+[2024-10-31 19:05:23] [INFO]: Antelope reproduced: new population is 3442
+[2024-10-31 19:05:23] [INFO]: Bush grew: new population is 188395
+[2024-10-31 19:05:23] [INFO]: Tree grew: new population is 88460
+[2024-10-31 19:05:23] [INFO]: Flower grew: new population is 202203
+[2024-10-31 19:05:23] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:23] [INFO]: -----Day 17 completed.-----
+[2024-10-31 19:05:23] [INFO]: Weather Event: Drought occurred, - 258421593 water resources. Humidity decreased.
+[2024-10-31 19:05:23] [INFO]: Daily temperature adjusted to: 11
+[2024-10-31 19:05:23] [INFO]: Humidity level is: 98
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 446 units of Tree(s).
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 1 units of Flower(s).
+[2024-10-31 19:05:23] [INFO]: Antelope consumed 6884 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Fox. Food needed: 2553.0, current population: 851
+[2024-10-31 19:05:23] [INFO]: Fox is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 15445.0, current population: 3089
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 5300.0, current population: 530
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3150.0, current population: 525
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 4469.8, current population: 22349
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 20652.0, current population: 3442
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Fox (Level 2) consumed 63 Wolf(s) (Level 4).
+[2024-10-31 19:05:23] [INFO]: Fox (Level 2) consumed 330 Mouse(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 851 Fox(s) (Level 2).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 30 Tiger(s) (Level 5).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 50 Mouse(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 125 Wolf(s) (Level 4).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 14 Tiger(s) (Level 5).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 630 Mouse(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 14505.0, current population: 2901
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 4860.0, current population: 486
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3150.0, current population: 525
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 4267.8, current population: 21339
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 20652.0, current population: 3442
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Mouse reproduced: new population is 21552
+[2024-10-31 19:05:23] [INFO]: Antelope reproduced: new population is 3476
+[2024-10-31 19:05:23] [INFO]: Bush grew: new population is 182006
+[2024-10-31 19:05:23] [INFO]: Tree grew: new population is 88188
+[2024-10-31 19:05:23] [INFO]: Flower grew: new population is 202277
+[2024-10-31 19:05:23] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:23] [INFO]: -----Day 18 completed.-----
+[2024-10-31 19:05:23] [INFO]: Weather Event: Rain occurred, + 1631143502 water resources. Humidity increased.
+[2024-10-31 19:05:23] [INFO]: Daily temperature adjusted to: 7
+[2024-10-31 19:05:23] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 1436 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 0 units of Flower(s).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 14505.0, current population: 2901
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 4860.0, current population: 486
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3150.0, current population: 525
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 4310.400000000001, current population: 21552
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 20856.0, current population: 3476
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 65 Tiger(s) (Level 5).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 1725 Mouse(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 105 Wolf(s) (Level 4).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 100 Mouse(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 14 Tiger(s) (Level 5).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 630 Mouse(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 13980.0, current population: 2796
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 4070.0, current population: 407
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3150.0, current population: 525
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 3819.4, current population: 19097
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 20856.0, current population: 3476
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Antelope reproduced: new population is 3510
+[2024-10-31 19:05:23] [INFO]: Bush grew: new population is 180640
+[2024-10-31 19:05:23] [INFO]: Tree grew: new population is 88608
+[2024-10-31 19:05:23] [INFO]: Flower grew: new population is 202844
+[2024-10-31 19:05:23] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:23] [INFO]: -----Day 19 completed.-----
+[2024-10-31 19:05:23] [INFO]: Weather Event: Rain occurred, + 1490495143 water resources. Humidity increased.
+[2024-10-31 19:05:23] [INFO]: Daily temperature adjusted to: 5
+[2024-10-31 19:05:23] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 1273 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 0 units of Tree(s).
+[2024-10-31 19:05:23] [INFO]: Antelope consumed 7020 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 13980.0, current population: 2796
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 4070.0, current population: 407
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3150.0, current population: 525
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 3819.4, current population: 19097
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 21060.0, current population: 3510
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 63 Tiger(s) (Level 5).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 885 Mouse(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 86 Wolf(s) (Level 4).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 14 Tiger(s) (Level 5).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 630 Mouse(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 13550.0, current population: 2710
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 3300.0, current population: 330
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3150.0, current population: 525
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 3516.4, current population: 17582
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 21060.0, current population: 3510
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Tiger reproduced: new population is 333
+[2024-10-31 19:05:23] [INFO]: Antelope reproduced: new population is 3545
+[2024-10-31 19:05:23] [INFO]: Bush grew: new population is 172841
+[2024-10-31 19:05:23] [INFO]: Tree grew: new population is 88672
+[2024-10-31 19:05:23] [INFO]: Flower grew: new population is 203264
+[2024-10-31 19:05:23] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:23] [INFO]: -----Day 20 completed.-----
+[2024-10-31 19:05:23] [INFO]: Weather Event: Drought occurred, - 1645444697 water resources. Humidity decreased.
+[2024-10-31 19:05:23] [INFO]: Daily temperature adjusted to: 9
+[2024-10-31 19:05:23] [INFO]: Humidity level is: 97
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 351 units of Tree(s).
+[2024-10-31 19:05:23] [INFO]: Antelope consumed 7090 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 13550.0, current population: 2710
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 3330.0, current population: 333
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3150.0, current population: 525
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 3516.4, current population: 17582
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 21270.0, current population: 3545
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 61 Tiger(s) (Level 5).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 995 Mouse(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 68 Wolf(s) (Level 4).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 14 Tiger(s) (Level 5).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 630 Mouse(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 13210.0, current population: 2642
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 2580.0, current population: 258
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3150.0, current population: 525
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 3191.4, current population: 15957
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 21270.0, current population: 3545
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Wolf reproduced: new population is 2668
+[2024-10-31 19:05:23] [INFO]: Panther reproduced: new population is 530
+[2024-10-31 19:05:23] [INFO]: Mouse reproduced: new population is 16116
+[2024-10-31 19:05:23] [INFO]: Antelope reproduced: new population is 3580
+[2024-10-31 19:05:23] [INFO]: Bush grew: new population is 166253
+[2024-10-31 19:05:23] [INFO]: Tree grew: new population is 88406
+[2024-10-31 19:05:23] [INFO]: Flower grew: new population is 203558
+[2024-10-31 19:05:23] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:23] [INFO]: -----Day 21 completed.-----
+[2024-10-31 19:05:23] [INFO]: Weather Event: Rain occurred, + 1161836848 water resources. Humidity increased.
+[2024-10-31 19:05:23] [INFO]: Daily temperature adjusted to: 8
+[2024-10-31 19:05:23] [INFO]: Humidity level is: 98
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 322 units of Tree(s).
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 0 units of Flower(s).
+[2024-10-31 19:05:23] [INFO]: Antelope consumed 7160 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 13340.0, current population: 2668
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 2580.0, current population: 258
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3180.0, current population: 530
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 3223.2000000000003, current population: 16116
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 21480.0, current population: 3580
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 60 Tiger(s) (Level 5).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 1100 Mouse(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 49 Wolf(s) (Level 4).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 200 Mouse(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 14 Tiger(s) (Level 5).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 930 Mouse(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 13095.0, current population: 2619
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 1840.0, current population: 184
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3180.0, current population: 530
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 2777.2000000000003, current population: 13886
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 21480.0, current population: 3580
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Panther reproduced: new population is 535
+[2024-10-31 19:05:23] [INFO]: Mouse reproduced: new population is 14024
+[2024-10-31 19:05:23] [INFO]: Bush grew: new population is 159306
+[2024-10-31 19:05:23] [INFO]: Tree grew: new population is 88327
+[2024-10-31 19:05:23] [INFO]: Flower grew: new population is 204239
+[2024-10-31 19:05:23] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:23] [INFO]: -----Day 22 completed.-----
+[2024-10-31 19:05:23] [INFO]: Weather Event: Drought occurred, - 1825672497 water resources. Humidity decreased.
+[2024-10-31 19:05:23] [INFO]: Daily temperature adjusted to: 12
+[2024-10-31 19:05:23] [INFO]: Humidity level is: 95
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 934 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Antelope consumed 7160 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 13095.0, current population: 2619
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 1840.0, current population: 184
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3210.0, current population: 535
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 2804.8, current population: 14024
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 21480.0, current population: 3580
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 59 Tiger(s) (Level 5).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 855 Mouse(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 31 Wolf(s) (Level 4).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 100 Mouse(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 14 Tiger(s) (Level 5).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 1230 Mouse(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 12940.0, current population: 2588
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 1110.0, current population: 111
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3210.0, current population: 535
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 2367.8, current population: 11839
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 21480.0, current population: 3580
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Antelope reproduced: new population is 3615
+[2024-10-31 19:05:23] [INFO]: Bush grew: new population is 151260
+[2024-10-31 19:05:23] [INFO]: Tree grew: new population is 88359
+[2024-10-31 19:05:23] [INFO]: Flower grew: new population is 205038
+[2024-10-31 19:05:23] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:23] [INFO]: -----Day 23 completed.-----
+[2024-10-31 19:05:23] [INFO]: Weather Event: Rain occurred, + 678842869 water resources. Humidity increased.
+[2024-10-31 19:05:23] [INFO]: Daily temperature adjusted to: 15
+[2024-10-31 19:05:23] [INFO]: Humidity level is: 99
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 236 units of Tree(s).
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 1 units of Flower(s).
+[2024-10-31 19:05:23] [INFO]: Antelope consumed 7230 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 12940.0, current population: 2588
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 1110.0, current population: 111
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3210.0, current population: 535
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 2367.8, current population: 11839
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 21690.0, current population: 3615
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 58 Tiger(s) (Level 5).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 1510 Mouse(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 13 Wolf(s) (Level 4).
+[2024-10-31 19:05:23] [INFO]: Tiger (Level 5) consumed 100 Mouse(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 14 Tiger(s) (Level 5).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 1230 Mouse(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 390.0, current population: 39
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3210.0, current population: 535
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 1799.8000000000002, current population: 8999
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 21690.0, current population: 3615
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Bush grew: new population is 144090
+[2024-10-31 19:05:23] [INFO]: Tree grew: new population is 88476
+[2024-10-31 19:05:23] [INFO]: Flower grew: new population is 206041
+[2024-10-31 19:05:23] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:23] [INFO]: -----Day 24 completed.-----
+[2024-10-31 19:05:23] [INFO]: Weather Event: Rain occurred, + 565010798 water resources. Humidity increased.
+[2024-10-31 19:05:23] [INFO]: Daily temperature adjusted to: 18
+[2024-10-31 19:05:23] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 599 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 0 units of Tree(s).
+[2024-10-31 19:05:23] [INFO]: Mouse consumed 0 units of Flower(s).
+[2024-10-31 19:05:23] [INFO]: Antelope consumed 7230 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Tiger. Food needed: 390.0, current population: 39
+[2024-10-31 19:05:23] [INFO]: Tiger is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3210.0, current population: 535
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Mouse. Food needed: 1799.8000000000002, current population: 8999
+[2024-10-31 19:05:23] [INFO]: Mouse is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 21690.0, current population: 3615
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 39 Tiger(s) (Level 5).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 8999 Mouse(s) (Level 1).
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 48 Antelope(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 45 Antelope(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3210.0, current population: 535
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 21132.0, current population: 3522
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Antelope reproduced: new population is 3557
+[2024-10-31 19:05:23] [INFO]: Bush grew: new population is 136531
+[2024-10-31 19:05:23] [INFO]: Tree grew: new population is 88713
+[2024-10-31 19:05:23] [INFO]: Flower grew: new population is 206634
+[2024-10-31 19:05:23] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:23] [INFO]: -----Day 25 completed.-----
+[2024-10-31 19:05:23] [INFO]: Weather Event: Rain occurred, + 748343316 water resources. Humidity increased.
+[2024-10-31 19:05:23] [INFO]: Daily temperature adjusted to: 14
+[2024-10-31 19:05:23] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:23] [INFO]: Antelope consumed 7114 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3210.0, current population: 535
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 21342.0, current population: 3557
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 183 Antelope(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 45 Antelope(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3210.0, current population: 535
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 19974.0, current population: 3329
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Bush grew: new population is 130063
+[2024-10-31 19:05:23] [INFO]: Tree grew: new population is 89107
+[2024-10-31 19:05:23] [INFO]: Flower grew: new population is 207482
+[2024-10-31 19:05:23] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:23] [INFO]: -----Day 26 completed.-----
+[2024-10-31 19:05:23] [INFO]: Weather Event: Rain occurred, + 1631879952 water resources. Humidity increased.
+[2024-10-31 19:05:23] [INFO]: Daily temperature adjusted to: 14
+[2024-10-31 19:05:23] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:23] [INFO]: Antelope consumed 6658 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3210.0, current population: 535
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 19974.0, current population: 3329
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 183 Antelope(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 45 Antelope(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3210.0, current population: 535
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 18606.0, current population: 3101
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Antelope reproduced: new population is 3132
+[2024-10-31 19:05:23] [INFO]: Bush grew: new population is 123849
+[2024-10-31 19:05:23] [INFO]: Tree grew: new population is 89153
+[2024-10-31 19:05:23] [INFO]: Flower grew: new population is 208305
+[2024-10-31 19:05:23] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:23] [INFO]: -----Day 27 completed.-----
+[2024-10-31 19:05:23] [INFO]: Weather Event: No significant weather event today.
+[2024-10-31 19:05:23] [INFO]: Daily temperature adjusted to: 10
+[2024-10-31 19:05:23] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:23] [INFO]: Antelope consumed 6264 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3210.0, current population: 535
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 18792.0, current population: 3132
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 183 Antelope(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 45 Antelope(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3210.0, current population: 535
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 17424.0, current population: 2904
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Antelope reproduced: new population is 2933
+[2024-10-31 19:05:23] [INFO]: Bush grew: new population is 117843
+[2024-10-31 19:05:23] [INFO]: Tree grew: new population is 89338
+[2024-10-31 19:05:23] [INFO]: Flower grew: new population is 208878
+[2024-10-31 19:05:23] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:23] [INFO]: -----Day 28 completed.-----
+[2024-10-31 19:05:23] [INFO]: Weather Event: Rain occurred, + 1941859671 water resources. Humidity increased.
+[2024-10-31 19:05:23] [INFO]: Daily temperature adjusted to: 6
+[2024-10-31 19:05:23] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:23] [INFO]: Antelope consumed 5866 units of Bush(s).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3210.0, current population: 535
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 17598.0, current population: 2933
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 183 Antelope(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 45 Antelope(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3210.0, current population: 535
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 16230.0, current population: 2705
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Antelope reproduced: new population is 2732
+[2024-10-31 19:05:23] [INFO]: Bush grew: new population is 112250
+[2024-10-31 19:05:23] [INFO]: Tree grew: new population is 89480
+[2024-10-31 19:05:23] [INFO]: Flower grew: new population is 209066
+[2024-10-31 19:05:23] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:23] [INFO]: -----Day 29 completed.-----
+[2024-10-31 19:05:23] [INFO]: Weather Event: Drought occurred, - 91161569 water resources. Humidity decreased.
+[2024-10-31 19:05:23] [INFO]: Daily temperature adjusted to: 6
+[2024-10-31 19:05:23] [INFO]: Humidity level is: 99
+[2024-10-31 19:05:23] [INFO]: Antelope consumed 1639 units of Tree(s).
+[2024-10-31 19:05:23] [INFO]: Antelope consumed 0 units of Flower(s).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3210.0, current population: 535
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 16392.0, current population: 2732
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Wolf (Level 4) consumed 183 Antelope(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Panther (Level 4) consumed 45 Antelope(s) (Level 3).
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:23] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Panther. Food needed: 3210.0, current population: 535
+[2024-10-31 19:05:23] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Applying starvation check for Antelope. Food needed: 15024.0, current population: 2504
+[2024-10-31 19:05:23] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:23] [INFO]: Bush grew: new population is 112349
+[2024-10-31 19:05:23] [INFO]: Tree grew: new population is 88077
+[2024-10-31 19:05:23] [INFO]: Flower grew: new population is 209342
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 30 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 1261213210 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 4
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:24] [INFO]: Antelope consumed 5008 units of Bush(s).
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:24] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Panther. Food needed: 3210.0, current population: 535
+[2024-10-31 19:05:24] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Antelope. Food needed: 15024.0, current population: 2504
+[2024-10-31 19:05:24] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Wolf (Level 4) consumed 183 Antelope(s) (Level 3).
+[2024-10-31 19:05:24] [INFO]: Panther (Level 4) consumed 45 Antelope(s) (Level 3).
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:24] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Panther. Food needed: 3210.0, current population: 535
+[2024-10-31 19:05:24] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Antelope. Food needed: 13656.0, current population: 2276
+[2024-10-31 19:05:24] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Panther reproduced: new population is 540
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 107491
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 88271
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 210115
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 31 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 1169531602 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 8
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:24] [INFO]: Antelope consumed 1365 units of Tree(s).
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:24] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Panther. Food needed: 3240.0, current population: 540
+[2024-10-31 19:05:24] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Antelope. Food needed: 13656.0, current population: 2276
+[2024-10-31 19:05:24] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Wolf (Level 4) consumed 183 Antelope(s) (Level 3).
+[2024-10-31 19:05:24] [INFO]: Panther (Level 4) consumed 46 Antelope(s) (Level 3).
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:24] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Panther. Food needed: 3240.0, current population: 540
+[2024-10-31 19:05:24] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Antelope. Food needed: 12282.0, current population: 2047
+[2024-10-31 19:05:24] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Antelope reproduced: new population is 2067
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 107589
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 86918
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 210700
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 32 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 899725031 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 9
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:24] [INFO]: Antelope consumed 4134 units of Bush(s).
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:24] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Panther. Food needed: 3240.0, current population: 540
+[2024-10-31 19:05:24] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Antelope. Food needed: 12402.0, current population: 2067
+[2024-10-31 19:05:24] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Wolf (Level 4) consumed 183 Antelope(s) (Level 3).
+[2024-10-31 19:05:24] [INFO]: Panther (Level 4) consumed 46 Antelope(s) (Level 3).
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:24] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Panther. Food needed: 3240.0, current population: 540
+[2024-10-31 19:05:24] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Antelope. Food needed: 11028.0, current population: 1838
+[2024-10-31 19:05:24] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Antelope reproduced: new population is 1856
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 103489
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 87289
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 211369
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 33 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Drought occurred, - 427829996 water resources. Humidity decreased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 13
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 98
+[2024-10-31 19:05:24] [INFO]: Antelope consumed 3712 units of Bush(s).
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:24] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Panther. Food needed: 3240.0, current population: 540
+[2024-10-31 19:05:24] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Antelope. Food needed: 11136.0, current population: 1856
+[2024-10-31 19:05:24] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Wolf (Level 4) consumed 183 Antelope(s) (Level 3).
+[2024-10-31 19:05:24] [INFO]: Panther (Level 4) consumed 46 Antelope(s) (Level 3).
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:24] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Panther. Food needed: 3240.0, current population: 540
+[2024-10-31 19:05:24] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Antelope. Food needed: 9762.0, current population: 1627
+[2024-10-31 19:05:24] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Antelope reproduced: new population is 1643
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 100076
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 87310
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 212102
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 34 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 1260682101 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 12
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:24] [INFO]: Antelope consumed 3286 units of Bush(s).
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:24] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Panther. Food needed: 3240.0, current population: 540
+[2024-10-31 19:05:24] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Antelope. Food needed: 9858.0, current population: 1643
+[2024-10-31 19:05:24] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Wolf (Level 4) consumed 183 Antelope(s) (Level 3).
+[2024-10-31 19:05:24] [INFO]: Panther (Level 4) consumed 46 Antelope(s) (Level 3).
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:24] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Panther. Food needed: 3240.0, current population: 540
+[2024-10-31 19:05:24] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Antelope. Food needed: 8484.0, current population: 1414
+[2024-10-31 19:05:24] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Panther reproduced: new population is 545
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 97272
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 87368
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 212683
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 35 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 1841124993 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 12
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:24] [INFO]: Antelope consumed 2828 units of Bush(s).
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:24] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Panther. Food needed: 3270.0, current population: 545
+[2024-10-31 19:05:24] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Antelope. Food needed: 8484.0, current population: 1414
+[2024-10-31 19:05:24] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Wolf (Level 4) consumed 183 Antelope(s) (Level 3).
+[2024-10-31 19:05:24] [INFO]: Panther (Level 4) consumed 46 Antelope(s) (Level 3).
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:24] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Panther. Food needed: 3270.0, current population: 545
+[2024-10-31 19:05:24] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Antelope. Food needed: 7110.0, current population: 1185
+[2024-10-31 19:05:24] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Antelope reproduced: new population is 1196
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 94634
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 87464
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 213334
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 36 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 407056502 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 6
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:24] [INFO]: Antelope consumed 2392 units of Bush(s).
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:24] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Panther. Food needed: 3270.0, current population: 545
+[2024-10-31 19:05:24] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Antelope. Food needed: 7176.0, current population: 1196
+[2024-10-31 19:05:24] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Wolf (Level 4) consumed 183 Antelope(s) (Level 3).
+[2024-10-31 19:05:24] [INFO]: Panther (Level 4) consumed 46 Antelope(s) (Level 3).
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:24] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Panther. Food needed: 3270.0, current population: 545
+[2024-10-31 19:05:24] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Antelope. Food needed: 5802.0, current population: 967
+[2024-10-31 19:05:24] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Panther reproduced: new population is 550
+[2024-10-31 19:05:24] [INFO]: Antelope reproduced: new population is 976
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 92533
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 87650
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 213853
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 37 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 1214483176 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 9
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:24] [INFO]: Antelope consumed 1952 units of Bush(s).
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:24] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Panther. Food needed: 3300.0, current population: 550
+[2024-10-31 19:05:24] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Antelope. Food needed: 5856.0, current population: 976
+[2024-10-31 19:05:24] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Wolf (Level 4) consumed 183 Antelope(s) (Level 3).
+[2024-10-31 19:05:24] [INFO]: Panther (Level 4) consumed 47 Antelope(s) (Level 3).
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:24] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Panther. Food needed: 3300.0, current population: 550
+[2024-10-31 19:05:24] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Antelope. Food needed: 4476.0, current population: 746
+[2024-10-31 19:05:24] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Panther reproduced: new population is 555
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 91019
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 87787
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 214175
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 38 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Drought occurred, - 1148506477 water resources. Humidity decreased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 14
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 99
+[2024-10-31 19:05:24] [INFO]: Antelope consumed 1492 units of Bush(s).
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:24] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Panther. Food needed: 3330.0, current population: 555
+[2024-10-31 19:05:24] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Antelope. Food needed: 4476.0, current population: 746
+[2024-10-31 19:05:24] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Wolf (Level 4) consumed 183 Antelope(s) (Level 3).
+[2024-10-31 19:05:24] [INFO]: Panther (Level 4) consumed 47 Antelope(s) (Level 3).
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:24] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Panther. Food needed: 3330.0, current population: 555
+[2024-10-31 19:05:24] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Antelope. Food needed: 3096.0, current population: 516
+[2024-10-31 19:05:24] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Antelope reproduced: new population is 521
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 89801
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 87802
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 214207
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 39 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 1035688189 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 18
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:24] [INFO]: Antelope consumed 312 units of Tree(s).
+[2024-10-31 19:05:24] [INFO]: Antelope consumed 1 units of Flower(s).
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:24] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Panther. Food needed: 3330.0, current population: 555
+[2024-10-31 19:05:24] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Antelope. Food needed: 3126.0, current population: 521
+[2024-10-31 19:05:24] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Wolf (Level 4) consumed 183 Antelope(s) (Level 3).
+[2024-10-31 19:05:24] [INFO]: Panther (Level 4) consumed 47 Antelope(s) (Level 3).
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:24] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Panther. Food needed: 3330.0, current population: 555
+[2024-10-31 19:05:24] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Antelope. Food needed: 1746.0, current population: 291
+[2024-10-31 19:05:24] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Antelope reproduced: new population is 293
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 90179
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 87750
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 215050
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 40 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 1915198404 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 13
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:24] [INFO]: Antelope consumed 351 units of Flower(s).
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:24] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Panther. Food needed: 3330.0, current population: 555
+[2024-10-31 19:05:24] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Antelope. Food needed: 1758.0, current population: 293
+[2024-10-31 19:05:24] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Wolf (Level 4) consumed 183 Antelope(s) (Level 3).
+[2024-10-31 19:05:24] [INFO]: Panther (Level 4) consumed 47 Antelope(s) (Level 3).
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:24] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Panther. Food needed: 3330.0, current population: 555
+[2024-10-31 19:05:24] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Antelope. Food needed: 378.0, current population: 63
+[2024-10-31 19:05:24] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 90516
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 87864
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 215518
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 41 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 1249346048 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 14
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:24] [INFO]: Antelope consumed 75 units of Flower(s).
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:24] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Panther. Food needed: 3330.0, current population: 555
+[2024-10-31 19:05:24] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Antelope. Food needed: 378.0, current population: 63
+[2024-10-31 19:05:24] [INFO]: Antelope is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Wolf (Level 4) consumed 63 Antelope(s) (Level 3).
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:24] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Panther. Food needed: 3330.0, current population: 555
+[2024-10-31 19:05:24] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 90820
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 88082
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 216044
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 42 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 289232297 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 11
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:24] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Panther. Food needed: 3330.0, current population: 555
+[2024-10-31 19:05:24] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:24] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Panther. Food needed: 3330.0, current population: 555
+[2024-10-31 19:05:24] [INFO]: Panther is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 91160
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 88435
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 216377
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 43 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 1527710352 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 10
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:24] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Panther. Food needed: 3330.0, current population: 555
+[2024-10-31 19:05:24] [INFO]: Panther has starved and its population is now 0.
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:24] [INFO]: Wolf is starving but not enough cycles yet.
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 91248
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 88697
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 216419
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 44 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: No significant weather event today.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 8
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:24] [INFO]: Applying starvation check for Wolf. Food needed: 12875.0, current population: 2575
+[2024-10-31 19:05:24] [INFO]: Wolf has starved and its population is now 0.
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 91671
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 89065
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 216450
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 45 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Drought occurred, - 1926358402 water resources. Humidity decreased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 11
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 96
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 91913
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 89219
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 216529
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 46 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Drought occurred, - 367556636 water resources. Humidity decreased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 16
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 94
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 91970
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 89370
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 217372
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 47 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 837651467 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 18
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 96
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 92207
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 89488
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 217403
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 48 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 350364141 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 15
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 92554
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 89740
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 217588
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 49 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 528885803 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 15
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 93017
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 90117
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 218470
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 50 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 1496211321 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 9
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 93375
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 90346
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 219517
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 51 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 811214776 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 13
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 93405
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 90440
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 220412
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 52 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 1312669937 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 17
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 93682
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 90742
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 220831
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 53 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 918166919 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 11
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 93917
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 91045
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 221889
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 54 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Drought occurred, - 1724504588 water resources. Humidity decreased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 7
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 99
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 93999
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 91346
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 222160
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 55 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 382398557 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 6
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 94470
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 91354
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 223034
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 56 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 1524056236 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 4
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 94591
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 91453
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 223473
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 57 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 927168574 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 8
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 94849
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 91751
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 224420
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 58 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 1698078174 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 9
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 95091
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 92191
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 224565
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 59 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 1315481248 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 8
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 95112
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 92445
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 225346
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 60 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Drought occurred, - 1495070762 water resources. Humidity decreased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 12
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 96
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 95160
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 92585
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 226027
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 61 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 685169880 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 11
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 98
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 95359
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 92887
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 226073
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 62 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Drought occurred, - 973184360 water resources. Humidity decreased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 10
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 96
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 95485
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 93250
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 226865
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 63 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 1423883110 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 12
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 97
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 95551
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 93443
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 227734
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 64 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: No significant weather event today.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 8
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 97
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 95784
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 93738
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 227802
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 65 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 1881140693 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 12
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 96066
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 94080
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 228805
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 66 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Drought occurred, - 342611389 water resources. Humidity decreased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 13
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 96
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 96390
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 94274
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 229312
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 67 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 1416277531 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 10
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 97
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 96639
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 94613
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 229553
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 68 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Drought occurred, - 547227303 water resources. Humidity decreased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 10
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 94
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 96720
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 95045
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 230251
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 69 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 295968586 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 6
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 97
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 96860
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 95427
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 230926
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 70 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Drought occurred, - 1835163148 water resources. Humidity decreased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 6
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 95
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 97289
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 95695
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 231693
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 71 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 126448005 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 6
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 99
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 97534
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 95758
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 232146
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 72 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 1188037707 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 7
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 97683
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 96122
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 232408
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 73 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 1448094593 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 8
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 98115
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 96310
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 232989
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 74 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Drought occurred, - 882700447 water resources. Humidity decreased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 8
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 97
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 98535
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 96403
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 233525
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 75 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Drought occurred, - 362514195 water resources. Humidity decreased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 9
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 94
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 98596
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 96597
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 233757
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 76 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 149804345 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 10
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 98
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 98929
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 96770
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 234714
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 77 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Drought occurred, - 1418002583 water resources. Humidity decreased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 9
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 96
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 99308
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 96889
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 235505
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 78 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 881840660 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 8
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 98
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 99796
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 97271
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 236173
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 79 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Drought occurred, - 825544950 water resources. Humidity decreased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 6
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 94
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 100073
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 97404
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 236249
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 80 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 2112289744 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 9
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 96
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 100410
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 97642
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 237094
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 81 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Drought occurred, - 2018366803 water resources. Humidity decreased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 9
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 92
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 100645
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 98062
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 237138
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 82 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 516704843 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 7
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 96
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 101016
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 98094
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 237974
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 83 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 1000534694 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 6
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 101516
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 98412
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 238931
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 84 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 109023124 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 8
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 101678
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 98908
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 239079
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 85 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Drought occurred, - 1496727869 water resources. Humidity decreased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 9
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 99
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 101924
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 99110
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 239687
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 86 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Drought occurred, - 560826412 water resources. Humidity decreased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 6
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 96
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 102179
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 99519
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 240278
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 87 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 806087198 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 7
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 97
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 102690
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 99912
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 240855
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 88 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 1326611426 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 4
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 99
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 102976
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 100079
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 241449
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 89 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Drought occurred, - 982720072 water resources. Humidity decreased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 6
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 95
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 103414
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 100430
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 242075
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 90 completed.-----
+[2024-10-31 19:05:24] [INFO]: Season changed to: Summer
+[2024-10-31 19:05:24] [INFO]: Weather Event: Drought occurred, - 1944177105 water resources. Humidity decreased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 16
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 94
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 103668
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 100836
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 242145
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 91 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Drought occurred, - 1071730410 water resources. Humidity decreased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 21
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 92
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 104016
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 101131
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 243278
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 92 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 687116890 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 21
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 94
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 104399
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 101281
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 243488
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 93 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Drought occurred, - 1900616830 water resources. Humidity decreased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 25
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 93
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 104770
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 101465
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 243765
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 94 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Drought occurred, - 1374621851 water resources. Humidity decreased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 23
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 90
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 105293
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 101555
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 244722
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 95 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Drought occurred, - 1342242037 water resources. Humidity decreased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 21
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 89
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 105598
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 102001
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 244972
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 96 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 1674055130 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 25
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 93
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 105934
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 102079
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 245645
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 97 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 951107767 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 23
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 96
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 106140
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 102332
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 246300
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 98 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Rain occurred, + 246396212 water resources. Humidity increased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 25
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 100
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 106386
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 102521
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 247355
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 99 completed.-----
+[2024-10-31 19:05:24] [INFO]: Weather Event: Drought occurred, - 1275808049 water resources. Humidity decreased.
+[2024-10-31 19:05:24] [INFO]: Daily temperature adjusted to: 27
+[2024-10-31 19:05:24] [INFO]: Humidity level is: 99
+[2024-10-31 19:05:24] [INFO]: Bush grew: new population is 106491
+[2024-10-31 19:05:24] [INFO]: Tree grew: new population is 102624
+[2024-10-31 19:05:24] [INFO]: Flower grew: new population is 248562
+[2024-10-31 19:05:24] [INFO]: Ecosystem displayed.
+[2024-10-31 19:05:24] [INFO]: -----Day 100 completed.-----

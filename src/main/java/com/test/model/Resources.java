@@ -1,17 +1,14 @@
 package com.test.model;
 
+import com.test.model.enums.Seasons;
 import lombok.*;
-
-import java.io.Serial;
-import java.io.Serializable;
 
 @Data
 @AllArgsConstructor
-public class Resources implements Serializable {
-    @Serial
-    private static final long serialVersionUID = 1L;
-
+@NoArgsConstructor
+public class Resources {
     private int temperature;
     private int humidity;
-    private int water;
+    private double water;
+    private Seasons season;
 }

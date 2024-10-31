@@ -1,17 +1,26 @@
 package com.test.model;
 
+import com.test.model.enums.AnimalType;
 import lombok.*;
-
-import java.io.Serial;
-import java.io.Serializable;
 
 @Data
 @AllArgsConstructor
-public class Animal implements Serializable {
-    @Serial
-    private static final long serialVersionUID = 1L;
-
+public class Animal {
     private String name;
-    private String type;
+    private AnimalType type;
     private int population;
+    private double weight;
+    private double foodIntake;
+    private double waterIntake;
+    private int level;
+
+    public boolean isPredator() {
+        return type == AnimalType.Predator;
+    }
+
+    public boolean isHerbivore() {
+        return type == AnimalType.Herbivore;
+    }
+
+
 }
