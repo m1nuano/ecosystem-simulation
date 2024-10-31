@@ -131,7 +131,3 @@ reducing boilerplate code. Ensure that Lombok is properly set up in your IDE (e.
 - Save Frequently: Regular saves prevent data loss.
 - Initialize Resources: Set initial water, temperature, and other values for realistic simulations.
 - Monitor Logs: Utilize logging to track changes in ecosystem parameters, aiding in deeper analysis.
-
-## Dependencies
-- Java 11+
-- Lombok
