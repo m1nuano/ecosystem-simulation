@@ -83,10 +83,10 @@ The ecosystem relies on water, temperature, and seasonal data that regulate anim
 
 ### Seasonal and Weather Adjustments
 Seasons rotate every 91 days, each with unique characteristics influencing plant growth and animal behavior:
-- Spring (Average 15В°C): Optimal growth rate with frequent rainfall.
-- Summer (Average 25В°C): Moderate growth but higher drought probability.
-- Autumn (Average 10В°C): Steady growth with occasional rain.
-- Winter (Average -5В°C): Minimal growth, challenging survival conditions.
+- Spring (Average 15°C): Optimal growth rate with frequent rainfall.
+- Summer (Average 25°C): Moderate growth but higher drought probability.
+- Autumn (Average 10°C): Steady growth with occasional rain.
+- Winter (Average -5°C): Minimal growth, challenging survival conditions.
 
 ### User Control Interface
 The application provides a command-line menu to interact with the ecosystem, enabling tasks such as:
