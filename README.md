@@ -83,6 +83,7 @@ The ecosystem relies on water, temperature, and seasonal data that regulate anim
 
 ### Seasonal and Weather Adjustments
 Seasons rotate every 91 days, each with unique characteristics influencing plant growth and animal behavior:
+(if base temperature at init equals 20°C)
 - Spring (Average 15°C): Optimal growth rate with frequent rainfall.
 - Summer (Average 25°C): Moderate growth but higher drought probability.
 - Autumn (Average 10°C): Steady growth with occasional rain.
